@@ -3,7 +3,8 @@
 <!--
 **stoicneko/stoicneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+-->
 #### Platform&Tools
 
 [![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
@@ -21,5 +22,4 @@ Here are some ideas to get you started:
 [![Rust](https://img.shields.io/badge/-Rust-005A9E?style=flat-square&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
 
 
--->
 [![stoicneko's GitHub stats](https://github-readme-stats.vercel.app/api?username=stoicneko)](https://github.com/anuraghazra/github-readme-stats)
